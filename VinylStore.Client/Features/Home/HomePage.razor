@@ -1,7 +1,27 @@
 ﻿@page "/"
+@inject HttpClient Http
 
 <h3>HomePage</h3>
 
-@code {
+@if (_albums == null) {
+    <p>Loading albums...</p>
+} else {
+    <div class="grid" >
+        @foreach (var album in _albums) {
+            <AlbumCard Album="album" />
+        }
+    </div>
+}
 
+@code {
+    private IEnumerable<Album>? _albums;
+
+    protected override async Task OnInitializedAsync() {
+        try {
+            _albums = await Http.GetFromJsonAsync<IEnumerable<Album>>("albums/album-data.json");
+        }
+        catch (HttpRequestException ex) {
+            Console.WriteLine($"There was a problem loading album data: {ex.Message}");
+        }
+    }
 }
