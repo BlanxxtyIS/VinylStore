@@ -199,8 +199,6 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwro
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.bq97vodilp.wasm
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.k51e820493.wasm
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.XDocument.0ke5udk43d.wasm
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\VinylStore.Client.68pfsc8cq0.pdb
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\VinylStore.Client.yxfwdrinaz.wasm
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\WindowsBase.377bly7twj.wasm
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.8hunc8w9tt.wasm.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.p4lwlf2bu1.wasm.gz
@@ -388,9 +386,7 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwro
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.mysczqf347.wasm.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Reader.j15bnzkt27.wasm.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.35mt6q5ljl.wasm.gz
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\VinylStore.Client.yxfwdrinaz.wasm.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.Extensions.ctn0pypdat.wasm.gz
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\VinylStore.Client.68pfsc8cq0.pdb.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.9qczpn3q1h.wasm.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.ip8pk4p9ds.wasm.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Options.olt0jsk54c.wasm.gz
@@ -813,8 +809,6 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\scope
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\blazor.build.boot-extension.json
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\blazor.boot.json
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\5n6nybfcpl-9yslx85uio.gz
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\3vk7yjteoe-jqbbgv4z2r.gz
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\u8v2ukrgnm-vm9iopiing.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\tdv05urabj-bqjiyaj88i.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\njvqagw4ik-c2jlpeoesf.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\5suhnsz4hg-erw9l3u2r3.gz
@@ -1060,9 +1054,6 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compr
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\zy6wcqyocm-tjcz0u77k5.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\2r2v2i4yil-tptq2av103.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\0puc7lkhnh-lfu7j35m59.gz
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\x3ws8wedyl-yxfwdrinaz.gz
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\xdje15ib5k-68pfsc8cq0.gz
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\njxzkr3dt0-mehshph73j.gz
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1078,3 +1069,12 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\Vinyl
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\refint\VinylStore.Client.dll
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\VinylStore.Client.pdb
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\ref\VinylStore.Client.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\u8v2ukrgnm-q1uhatcf5d.gz
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\VinylStore.Client.doj8kya7rj.pdb
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\VinylStore.Client.s4cstirxl8.wasm
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\VinylStore.Client.s4cstirxl8.wasm.gz
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\bin\Debug\net9.0\wwwroot\_framework\VinylStore.Client.doj8kya7rj.pdb.gz
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\3vk7yjteoe-dq6mznf46m.gz
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\x3ws8wedyl-s4cstirxl8.gz
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\xdje15ib5k-doj8kya7rj.gz
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\compressed\njxzkr3dt0-fipjkn0ofa.gz
