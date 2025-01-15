@@ -1,0 +1,39 @@
+﻿@page "/search/{SearchAlbum}"
+@page "/search/{SearchAlbum}/rating/{MaxRating:int}"
+@inject HttpClient Http
+
+<PageTitle>Search Album - Album Store</PageTitle>
+
+<h3 class="mt-5 mb-4">Search results for "@SearchAlbum"</h3>
+<AlbumDetails Album="_selectedAlbum" />
+
+<SearchFilter SearchAlbum="SearchAlbum" />
+
+@foreach (var album in _searchResults) {
+    <AlbumCard Album="album" OnSelected="HandleAlbumSelected" />
+}
+
+@code {
+    private IEnumerable<Album>? _searchResults;
+    private Album? _selectedAlbum;
+
+    [Parameter]
+    public string SearchAlbum { get; set; } = default!;
+
+    [Parameter]
+    public int? MaxRating { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try {
+            var allAlbums = await Http.GetFromJsonAsync<IEnumerable<Album>>("albums/album-data.json");
+            _searchResults = allAlbums!.Where(x => x.Name.Contains(SearchAlbum, StringComparison.CurrentCultureIgnoreCase)
+            || x.AuthorName.Contains(SearchAlbum, StringComparison.CurrentCultureIgnoreCase));
+        }
+        catch (HttpRequestException ex) {
+            Console.WriteLine($"There was a problem loading album data: {ex.Message}");
+        }
+    }
+
+    private void HandleAlbumSelected(Album album) => _selectedAlbum = album;
+}

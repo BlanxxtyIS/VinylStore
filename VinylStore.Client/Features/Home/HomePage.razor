@@ -1,5 +1,6 @@
 ﻿@page "/"
 @inject HttpClient Http
+@inject NavigationManager NavManager
 
 <PageTitle>Vinyl Shop</PageTitle>
 
@@ -7,6 +8,9 @@
     <p>Loading albums...</p>
 } else {
     <AlbumDetails Album="_selectedAlbum" />
+
+    <AlbumSearch />
+
     <div class="grid" >
         @foreach (var album in _albums) {
             <AlbumCard Album="album"  OnSelected="HandleAlbumSelected"/>
@@ -26,6 +30,7 @@
             Console.WriteLine($"There was a problem loading album data: {ex.Message}");
         }
     }
+    
 
     private void HandleAlbumSelected(Album album) => _selectedAlbum = album;
 }

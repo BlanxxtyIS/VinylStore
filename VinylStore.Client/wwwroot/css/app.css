@@ -132,3 +132,32 @@ a {
     background-color: #ffffff;
 }
 
+/* AlbumSearch */
+.jumbotron {
+    background: none;
+}
+input {
+    border: 2px solid var(--brand);
+}
+
+/* Search Filter */
+.filters {
+    display: flex;
+    margin-bottom: 20px;
+    align-items: baseline;
+    justify-content: flex-end;
+
+
+    label
+    {
+        text-transform: uppercase;
+        margin-right: 10px;
+    }
+    input {
+        margin-right: 20px;
+        width: 100px;
+    }
+    button:first-of-type {
+        margin-right:10px;
+    }
+ }
