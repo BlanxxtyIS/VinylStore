@@ -185,3 +185,4 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\runtimes
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\VinylStore.Shared.dll
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\VinylStore.Shared.pdb
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

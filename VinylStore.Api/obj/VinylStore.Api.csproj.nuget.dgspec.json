@@ -128,7 +128,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\VinylStore.Shared.csproj": {
+                "projectPath": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\VinylStore.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

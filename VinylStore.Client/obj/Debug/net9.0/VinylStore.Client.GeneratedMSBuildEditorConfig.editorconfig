@@ -60,6 +60,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Zver/Desktop/VinylStore.Client/VinylStore.Client/Features/ManageSttore/AddAlbumPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlU3R0b3JlXEFkZEFsYnVtUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zver/Desktop/VinylStore.Client/VinylStore.Client/Features/ManageSttore/FormFieldSet.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlU3R0b3JlXEZvcm1GaWVsZFNldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zver/Desktop/VinylStore.Client/VinylStore.Client/Features/ManageSttore/FormSection.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlU3R0b3JlXEZvcm1TZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zver/Desktop/VinylStore.Client/VinylStore.Client/Features/ManageSttore/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlU3R0b3JlXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Zver/Desktop/VinylStore.Client/VinylStore.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,3 +1,5 @@
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Client\obj\Debug\net9.0\staticwebassets.build.json
