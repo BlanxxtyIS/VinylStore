@@ -1,0 +1,12 @@
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\bin\Debug\net9.0\VinylStore.Shared.deps.json
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\bin\Debug\net9.0\VinylStore.Shared.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\bin\Debug\net9.0\VinylStore.Shared.pdb
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.AssemblyInfo.cs
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.sourcelink.json
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\refint\VinylStore.Shared.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.pdb
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\ref\VinylStore.Shared.dll

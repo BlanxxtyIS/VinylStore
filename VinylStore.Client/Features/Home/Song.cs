@@ -6,7 +6,6 @@
 
         public string Name { get; set; } = string.Empty;
         public string Text { get; set; } = string.Empty;
-        public Album? Album { get; set; }
-        public int? AlbumId { get; set; }
+        public Album Album { get; set; } = new Album();
     }
 }
