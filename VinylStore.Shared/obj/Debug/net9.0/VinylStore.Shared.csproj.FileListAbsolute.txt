@@ -10,3 +10,4 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\Vinyl
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\refint\VinylStore.Shared.dll
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.pdb
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\ref\VinylStore.Shared.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Shared\obj\Debug\net9.0\VinylStore.Shared.csproj.AssemblyReference.cache

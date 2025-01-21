@@ -32,7 +32,6 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\VinylSto
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\VinylStore.Api.AssemblyInfoInputs.cache
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\VinylStore.Api.AssemblyInfo.cs
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\VinylStore.Api.csproj.CoreCompileInputs.cache
-C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\VinylStore.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\VinylStore.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\VinylStore.Api.sourcelink.json
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\scopedcss\bundle\VinylStore.Api.styles.css
@@ -186,3 +185,8 @@ C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\runtimes
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\VinylStore.Shared.dll
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\VinylStore.Shared.pdb
 C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\Blazored.FluentValidation.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Zver\Desktop\VinylStore.Client\VinylStore.Api\obj\Debug\net9.0\VinylStore.Api.MvcApplicationPartsAssemblyInfo.cs

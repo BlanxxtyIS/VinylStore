@@ -12,27 +12,27 @@
 <h3 class="mt-5 mb-4">Add a album</h3>
 
 <EditForm Model="_album" OnValidSubmit="SubmitForm">
+    <FluentValidationValidator />
+
     <FormSection Title="Basic Details"
     HelpText="This information is used to identity the album and can be searched to help hikers find it.">
 
         <FormFieldSet Width="col-6">
             <label for="albumName" class="font-weight-bold text-secondary">Name</label>
-            <InputText @bind-Value="_album.Name" class="form-control"
-            id="albumName" />
+            <InputText @bind-Value="_album.Name" class="form-control" id="albumName" />
+            <ValidationMessage For="@(() => _album.Name)" />
         </FormFieldSet>
 
         <FormFieldSet>
             <label for="albumDescription" class="font-weight-bold text-secondary">Description</label>
-            <InputText @bind-Value="_album.Description" 
-            rows="6" 
-            class="form-control"
-            id="albumDescription" />
+            <InputText @bind-Value="_album.Description" rows="6" class="form-control" id="albumDescription" />
+            <ValidationMessage For="@(() => _album.Description)" />
         </FormFieldSet>
 
         <FormFieldSet Width="col-6">
             <label for="albumAuthorName" class="font-weight-bold text-secondary">Author Name</label>
-            <InputText @bind-Value="_album.AuthorName" class="form-control"
-            id="albumAuthorName" />
+            <InputText @bind-Value="_album.AuthorName" class="form-control" id="albumAuthorName" />
+            <ValidationMessage For="@(() => _album.AuthorName)" />
         </FormFieldSet>
 
     </FormSection>
@@ -49,7 +49,7 @@
     </FormSection>
 
     <FormSection Title="Song Information"
-                 HelpText="Song instructions are a guide for the song. This helps hikers new to the trail stay on song.">
+    HelpText="Song instructions are a guide for the song. This helps hikers new to the trail stay on song.">
         @{
             var i = 0;
         }
@@ -59,22 +59,20 @@
             <div class="row">
                 <div class="col-2">
                     <div class="form-group">
-                        <label class="font-weight-bold text-secondary">Stage</label>
+                        <label class="font-weight-bold text-secondary">Song</label>
                         <p>@i</p>
                     </div>
                 </div>
                 <div class="col">
                     <div class="form-group">
-                        <label for="songDescription" class="font-weight-bold text-secondary">Description</label>
-                        <InputText @bind-Value="song.Text" class="form-control" id="songDescription" />
+                        <label for="songTitle" class="font-weight-bold text-secondary">Song Title</label>
+                        <InputText @bind-Value="song.Name" class="form-control" id="songTitle" />
+                        <ValidationMessage For="@(() => song.Name)" />
                     </div>
                 </div>
                 <div class="col-1 d-flex mt-3">
                     <button @onclick="@(() => _album.Songs.Remove(song))" class="btn btn-link" type="button">
-                        <svg width="1em" height="1em" viewBox="0 0 16 16"
-                             class="bi bi-x-circle-fill text-danger"
-                             fill="currentColor"
-                             xmlns="http://www.w3.org/2000/svg">
+                        <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-x-circle-fill text-danger" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM5.354 4.646a.5.5 0 1 0-.708.708L7.293 8l-2.647 2.646a.5.5 0 0 0 .708.708L8 8.707l2.646 2.647a.5.5 0 0 0 .708-.708L8.707 8l2.647-2.646a.5.5 0 0 0-.708-.708L8 7.293 5.354 4.646z" />
                         </svg>
                     </button>
@@ -84,23 +82,16 @@
 
         <div class="row">
             <div class="col">
-                <button class="btn btn-outline-primary"
-                    type="button"
-                    @onclick="@(() => _album.Songs.Add(
-                        new AlbumDto.Song()))">
-                    Add Song
-                </button>
+                <button class="btn btn-outline-primary" type="button" @onclick="@(() => _album.Songs.Add(new AlbumDto.Song()))">Add Song</button>
+                <ValidationMessage For="@(() => _album.Songs)" />
             </div>
         </div>
     </FormSection>
 
     <div class="mt-4 mb-5">
         <div class="offset-4 col-8 text-right">
-            <button class="btn btn-outline-secondary"
-            type="button"
-            @onclick="@(() => _album = new AlbumDto())">
-                Reset
-            </button>
+            <button class="btn btn-outline-secondary" type="button" @onclick="@(() => _album = new AlbumDto())">Reset</button>
+            <button class="btn btn-primary" type="submit">Submit</button>
         </div>
     </div>
 </EditForm>
