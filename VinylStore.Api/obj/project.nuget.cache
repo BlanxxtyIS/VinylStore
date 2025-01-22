@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lOU8gej0XLE=",
+  "dgSpecHash": "x9Xd8KtpQ/g=",
   "success": true,
   "projectFilePath": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\VinylStore.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Zver\\.nuget\\packages\\ardalis.apiendpoints\\4.1.0\\ardalis.apiendpoints.4.1.0.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\ardalis.apiendpoints.codeanalyzers\\4.0.0\\ardalis.apiendpoints.codeanalyzers.4.0.0.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\blazored.fluentvalidation\\2.2.0\\blazored.fluentvalidation.2.2.0.nupkg.sha512",
@@ -11,6 +13,9 @@
     "C:\\Users\\Zver\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.0\\microsoft.aspnetcore.components.9.0.0.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.0\\microsoft.aspnetcore.components.analyzers.9.0.0.nupkg.sha512",
