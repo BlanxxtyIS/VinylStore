@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.api\\features\\managealbums\\addalbumendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|solutionrelative:vinylstore.api\\features\\managealbums\\addalbumendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\features\\managesttore\\addalbumpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\features\\managesttore\\addalbumpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddAlbumEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\Features\\ManageAlbums\\AddAlbumEndpoints.cs",
-              "RelativeDocumentMoniker": "VinylStore.Api\\Features\\ManageAlbums\\AddAlbumEndpoints.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\Features\\ManageAlbums\\AddAlbumEndpoints.cs*",
-              "RelativeToolTip": "VinylStore.Api\\Features\\ManageAlbums\\AddAlbumEndpoints.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T18:10:55.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\_Imports.razor",
               "RelativeDocumentMoniker": "VinylStore.Client\\_Imports.razor",
@@ -76,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AddAlbumPage.razor",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageSttore\\AddAlbumPage.razor",
               "RelativeDocumentMoniker": "VinylStore.Client\\Features\\ManageSttore\\AddAlbumPage.razor",
@@ -89,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AddAlbumHandler.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\Features\\ManageStore\\AddAlbumHandler.cs",
               "RelativeDocumentMoniker": "VinylStore.Shared\\Features\\ManageStore\\AddAlbumHandler.cs",
@@ -102,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AlbumDto.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\Features\\ManageStore\\AlbumDto.cs",
               "RelativeDocumentMoniker": "VinylStore.Shared\\Features\\ManageStore\\AlbumDto.cs",
@@ -115,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AddAlbumRequest.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\Features\\ManageStore\\AddAlbumRequest.cs",
               "RelativeDocumentMoniker": "VinylStore.Shared\\Features\\ManageStore\\AddAlbumRequest.cs",
@@ -128,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Program.cs",
               "RelativeDocumentMoniker": "VinylStore.Client\\Program.cs",
@@ -141,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "VinylStore.Client.csproj",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\VinylStore.Client.csproj",
               "RelativeDocumentMoniker": "VinylStore.Client\\VinylStore.Client.csproj",

@@ -22,6 +22,6 @@
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\Zver\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.4</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\Zver\.nuget\packages\microsoft.entityframeworkcore.tools\9.0.1</PkgMicrosoft_EntityFrameworkCore_Tools>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_Server Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Server)' == '' ">C:\Users\Zver\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\9.0.1</PkgMicrosoft_AspNetCore_Components_WebAssembly_Server>
-    <PkgArdalis_ApiEndpoints_CodeAnalyzers Condition=" '$(PkgArdalis_ApiEndpoints_CodeAnalyzers)' == '' ">C:\Users\Zver\.nuget\packages\ardalis.apiendpoints.codeanalyzers\4.0.0</PkgArdalis_ApiEndpoints_CodeAnalyzers>
+    <PkgArdalis_ApiEndpoints_CodeAnalyzers Condition=" '$(PkgArdalis_ApiEndpoints_CodeAnalyzers)' == '' ">C:\Users\Zver\.nuget\packages\ardalis.apiendpoints.codeanalyzers\4.0.0-pre1</PkgArdalis_ApiEndpoints_CodeAnalyzers>
   </PropertyGroup>
 </Project>

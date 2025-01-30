@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VinylStore.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd507a3ebdf842922cf6f4d86d84e7d0b873eace")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4befd9296565f6802f658dba0bb0c6f3395ea23d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VinylStore.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VinylStore.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
