@@ -1,10 +1,12 @@
 {
   "mainAssemblyName": "VinylStore.Client",
   "resources": {
-    "hash": "sha256-y4IAzGAiLPY5aZhkuJ6/SbryogBgmaYud20Y11JJJ/k=",
+    "hash": "sha256-c7S758rHm1A4BB1wg3qVrJ/o8aof9WNHyCJyEWfS6BA=",
     "fingerprinting": {
       "Blazored.FluentValidation.x0xsecpmtx.wasm": "Blazored.FluentValidation.wasm",
       "FluentValidation.fvee6lf8f0.wasm": "FluentValidation.wasm",
+      "MediatR.olrqnoob61.wasm": "MediatR.wasm",
+      "MediatR.Contracts.f5sa8x1lz4.wasm": "MediatR.Contracts.wasm",
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.thhw8cz9wu.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -18,12 +20,16 @@
       "Microsoft.Extensions.Configuration.Json.5osbqvurog.wasm": "Microsoft.Extensions.Configuration.Json.wasm",
       "Microsoft.Extensions.DependencyInjection.qmftfeg8ce.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
       "Microsoft.Extensions.DependencyInjection.Abstractions.kvh8zhhe4g.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "Microsoft.Extensions.Diagnostics.4e28mmhchr.wasm": "Microsoft.Extensions.Diagnostics.wasm",
+      "Microsoft.Extensions.Diagnostics.Abstractions.mdr4398mwf.wasm": "Microsoft.Extensions.Diagnostics.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Abstractions.4ewk3ipqll.wasm": "Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Physical.qnaw45f7ij.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.q5if44af42.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
+      "Microsoft.Extensions.Http.19whzah939.wasm": "Microsoft.Extensions.Http.wasm",
       "Microsoft.Extensions.Logging.f89dlchogn.wasm": "Microsoft.Extensions.Logging.wasm",
       "Microsoft.Extensions.Logging.Abstractions.w8ltos2ii6.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
       "Microsoft.Extensions.Options.olt0jsk54c.wasm": "Microsoft.Extensions.Options.wasm",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.cy00pk0ov5.wasm": "Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
       "Microsoft.Extensions.Primitives.3sx0y6ui4u.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.sk08br83jz.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.fkdz83fr0b.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
@@ -203,10 +209,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "VinylStore.Shared.w5iote5466.wasm": "VinylStore.Shared.wasm",
-      "VinylStore.Shared.5y27xamvep.pdb": "VinylStore.Shared.pdb",
-      "VinylStore.Client.xrcylv0yo9.wasm": "VinylStore.Client.wasm",
-      "VinylStore.Client.zx7whdqtbp.pdb": "VinylStore.Client.pdb"
+      "VinylStore.Shared.bdk9owxo5f.wasm": "VinylStore.Shared.wasm",
+      "VinylStore.Shared.swsx1oh0wi.pdb": "VinylStore.Shared.pdb",
+      "VinylStore.Client.z8dbx95hu5.wasm": "VinylStore.Client.wasm",
+      "VinylStore.Client.ktba1tksfu.pdb": "VinylStore.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -229,6 +235,8 @@
     "assembly": {
       "Blazored.FluentValidation.x0xsecpmtx.wasm": "sha256-MSQuUWmw/uBMui2/n4kdEKi0h5j0G+EuO1sM6KK6ltM=",
       "FluentValidation.fvee6lf8f0.wasm": "sha256-y2wmu0q0yfh4/O0BN8s/ZnPUFizpBUQu6X5SeIQJjnI=",
+      "MediatR.olrqnoob61.wasm": "sha256-xNpPlP0rRK+6reYsPwzpiS8NHwmLR+apX6JYYz/41y0=",
+      "MediatR.Contracts.f5sa8x1lz4.wasm": "sha256-/db+nahzjeSd5EhxUqFrpFzJ998Up6Vgs1PHrV3jqkU=",
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "sha256-8hTdrmR59LAJRrDu8LLRlNn641/iWIAjzG1GcCsAhR0=",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "sha256-jTpt9y+Fzn6JeLtdS0PwW+fzVCyw2aJ8kFuDQAMFdcE=",
       "Microsoft.AspNetCore.Components.Forms.thhw8cz9wu.wasm": "sha256-b7dkg8tMPT2fEN10cgvga1DuG4BElomG5PE4E8Bv5B8=",
@@ -242,12 +250,16 @@
       "Microsoft.Extensions.Configuration.Json.5osbqvurog.wasm": "sha256-5TvpNHL/IqovZnXYmUxCSVWMgft6GMyuSEDiinnaGUI=",
       "Microsoft.Extensions.DependencyInjection.qmftfeg8ce.wasm": "sha256-nqQuN4ayS2a8jHtfiusAPPJWO0Rn9BOxl5PRzBgyiTw=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.kvh8zhhe4g.wasm": "sha256-gHzICQFZatDuOZZVIm0smiIBTDByxtlbZIxQz8+v+6s=",
+      "Microsoft.Extensions.Diagnostics.4e28mmhchr.wasm": "sha256-5EMkwnYuvQnQE5Ip/R/w1es7yBkVWIU1omfSovoLFNQ=",
+      "Microsoft.Extensions.Diagnostics.Abstractions.mdr4398mwf.wasm": "sha256-ZvWhi/8GakaMIepq3seMueSO7FueT6jwwWGlhmpdTxA=",
       "Microsoft.Extensions.FileProviders.Abstractions.4ewk3ipqll.wasm": "sha256-/FsPVHT/gqsYED9DQNPCtnqnJ6AEIo1Zo8wglXIiji0=",
       "Microsoft.Extensions.FileProviders.Physical.qnaw45f7ij.wasm": "sha256-CppJFrBtxPacr6ynl4+uMj6BHjjS6mGJH5dxN9PVxeY=",
       "Microsoft.Extensions.FileSystemGlobbing.q5if44af42.wasm": "sha256-rn1kOaNzJs0PQXRilQjYtvfwBN43zrliuDrnW/NL7n8=",
+      "Microsoft.Extensions.Http.19whzah939.wasm": "sha256-hXiPpWPveO5qsdEW2Gv44+2FTo1+h44csvRy7ob7mSM=",
       "Microsoft.Extensions.Logging.f89dlchogn.wasm": "sha256-AZt6PcIp4YH/6IfDlKv99LJi7Wni+IQW67Ie8zPGHYA=",
       "Microsoft.Extensions.Logging.Abstractions.w8ltos2ii6.wasm": "sha256-0Li+Npjfqm0UOGg+cuY4IHu1go7jcx7Cv4LelkoaOrU=",
       "Microsoft.Extensions.Options.olt0jsk54c.wasm": "sha256-3PjZLNn1QDw4xJynYcaTjuRXiZAvvaWB/HHjrz8VVv8=",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.cy00pk0ov5.wasm": "sha256-LHJxyJTXngS15YKxbxoWeE9c1ppPN5KbksH4t69pycs=",
       "Microsoft.Extensions.Primitives.3sx0y6ui4u.wasm": "sha256-A0WIty9B3GNUBtsykg0eb3kD47r0/Cpfk8q1Ei8ECrc=",
       "Microsoft.JSInterop.sk08br83jz.wasm": "sha256-FNS+xvA0GFiM2CVWHljv47AO+crkl0V7XiidkkMbVSw=",
       "Microsoft.JSInterop.WebAssembly.fkdz83fr0b.wasm": "sha256-kSwbIGuYmzrEilFXnLY8mKBXXFQtVXKAF/Qa323+Fnk=",
@@ -418,12 +430,12 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "VinylStore.Shared.w5iote5466.wasm": "sha256-9PZvWzXvE0dB/oyjZAbu/JTU9kraYkDpdUfAh/O7QxQ=",
-      "VinylStore.Client.xrcylv0yo9.wasm": "sha256-0/miBJNawb2mejvtEPV8wsJor1FF5hu00niImaBnNoU="
+      "VinylStore.Shared.bdk9owxo5f.wasm": "sha256-X3eKIQ8r4Rl3rsMJKszlRBR1rP2iR6VtDZNu5QXzgkI=",
+      "VinylStore.Client.z8dbx95hu5.wasm": "sha256-0yxFSAuftQoxDCZCarHdIAisyi7uh0FYlLWD6nJsqAQ="
     },
     "pdb": {
-      "VinylStore.Shared.5y27xamvep.pdb": "sha256-U6yblDcq3xfr+DDTMiB+Bvr/cFC3mqyzcTP+W1bREs0=",
-      "VinylStore.Client.zx7whdqtbp.pdb": "sha256-ySoXg1q6R3/HbP19UhAmJ0seeNv3ct+4bBkvh925r0I="
+      "VinylStore.Shared.swsx1oh0wi.pdb": "sha256-ZN72Y3TKV5DRKMJ99nwI9UAeZnc8jBOuKthyV3YSiA0=",
+      "VinylStore.Client.ktba1tksfu.pdb": "sha256-WM+YpqwoBERTvmjtMBYBHdfcAumkri8Ztm1A2zRyV/s="
     }
   },
   "cacheBootResources": true,

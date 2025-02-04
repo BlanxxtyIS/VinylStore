@@ -1,7 +1,81 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\vinylstore.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\vinylstore.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|solutionrelative:vinylstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\features\\managestore\\addalbumpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\features\\managestore\\addalbumpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9FBF27-DAD9-49FD-9578-18A458421207}|VinylStore.Shared\\VinylStore.Shared.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.shared\\features\\managestore\\addalbumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9FBF27-DAD9-49FD-9578-18A458421207}|VinylStore.Shared\\VinylStore.Shared.csproj|solutionrelative:vinylstore.shared\\features\\managestore\\addalbumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VinylStore/True/SqlTable/dbo.Albums.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VinylStore/True/SqlTable/dbo.Songs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VinylStore/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\features\\managestore\\addalbumhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\features\\managestore\\addalbumhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9FBF27-DAD9-49FD-9578-18A458421207}|VinylStore.Shared\\VinylStore.Shared.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.shared\\features\\managestore\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9FBF27-DAD9-49FD-9578-18A458421207}|VinylStore.Shared\\VinylStore.Shared.csproj|solutionrelative:vinylstore.shared\\features\\managestore\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.api\\features\\managealbums\\addalbumendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|solutionrelative:vinylstore.api\\features\\managealbums\\addalbumendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\features\\managestore\\formsection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\features\\managestore\\formsection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\features\\managestore\\formfieldset.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\features\\managestore\\formfieldset.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.api\\persistence\\vinylstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|solutionrelative:vinylstore.api\\persistence\\vinylstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\wwwroot\\albums\\1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\wwwroot\\albums\\1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|solutionrelative:vinylstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.api\\vinylstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{875252E7-2B49-4F2E-BAC2-2B788BC96A3F}|VinylStore.Api\\VinylStore.Api.csproj|solutionrelative:vinylstore.api\\vinylstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|c:\\users\\zver\\desktop\\vinylstore.client\\vinylstore.client\\features\\home\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B3EFEE3-4EFF-43FA-9C63-42837898E573}|VinylStore.Client\\VinylStore.Client.csproj|solutionrelative:vinylstore.client\\features\\home\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +83,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Songs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VinylStore/True/SqlTable/dbo.Songs.sql",
+              "ToolTip": "dbo.Songs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-04T18:52:52.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.__EFMigrationsHistory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VinylStore/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "dbo.__EFMigrationsHistory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-04T18:52:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Albums [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VinylStore/True/SqlTable/dbo.Albums.sql",
+              "ToolTip": "dbo.Albums [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-04T18:52:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddAlbumEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\Features\\ManageAlbums\\AddAlbumEndpoints.cs",
+              "RelativeDocumentMoniker": "VinylStore.Api\\Features\\ManageAlbums\\AddAlbumEndpoints.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\Features\\ManageAlbums\\AddAlbumEndpoints.cs",
+              "RelativeToolTip": "VinylStore.Api\\Features\\ManageAlbums\\AddAlbumEndpoints.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:42:34.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddAlbumHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageStore\\AddAlbumHandler.cs",
+              "RelativeDocumentMoniker": "VinylStore.Client\\Features\\ManageStore\\AddAlbumHandler.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageStore\\AddAlbumHandler.cs",
+              "RelativeToolTip": "VinylStore.Client\\Features\\ManageStore\\AddAlbumHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:30:54.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormSection.razor",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageStore\\FormSection.razor",
+              "RelativeDocumentMoniker": "VinylStore.Client\\Features\\ManageStore\\FormSection.razor",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageStore\\FormSection.razor",
+              "RelativeToolTip": "VinylStore.Client\\Features\\ManageStore\\FormSection.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T18:30:43.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormFieldSet.razor",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageStore\\FormFieldSet.razor",
+              "RelativeDocumentMoniker": "VinylStore.Client\\Features\\ManageStore\\FormFieldSet.razor",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageStore\\FormFieldSet.razor",
+              "RelativeToolTip": "VinylStore.Client\\Features\\ManageStore\\FormFieldSet.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T18:30:42.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddAlbumRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\Features\\ManageStore\\AddAlbumRequest.cs",
+              "RelativeDocumentMoniker": "VinylStore.Shared\\Features\\ManageStore\\AddAlbumRequest.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\Features\\ManageStore\\AddAlbumRequest.cs",
+              "RelativeToolTip": "VinylStore.Shared\\Features\\ManageStore\\AddAlbumRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:21:00.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "1.jpg - Bitmap [518x526, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\wwwroot\\albums\\1.jpg",
+              "RelativeDocumentMoniker": "VinylStore.Client\\wwwroot\\albums\\1.jpg",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\wwwroot\\albums\\1.jpg - Bitmap [518x526, 24 bit, JPG]",
+              "RelativeToolTip": "VinylStore.Client\\wwwroot\\albums\\1.jpg - Bitmap [518x526, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-04T17:55:51.454Z",
+              "EditorCaption": " - Bitmap [518x526, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "VinylStore.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\appsettings.json",
+              "RelativeToolTip": "VinylStore.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T17:55:18.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "VinylStore.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\Program.cs",
+              "RelativeToolTip": "VinylStore.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:49:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomePage.razor",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\Home\\HomePage.razor",
+              "RelativeDocumentMoniker": "VinylStore.Client\\Features\\Home\\HomePage.razor",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\Home\\HomePage.razor",
+              "RelativeToolTip": "VinylStore.Client\\Features\\Home\\HomePage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T17:45:51.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VinylStore.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\VinylStore.Api.csproj",
+              "RelativeDocumentMoniker": "VinylStore.Api\\VinylStore.Api.csproj",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\VinylStore.Api.csproj",
+              "RelativeToolTip": "VinylStore.Api\\VinylStore.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T15:37:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VinylStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\Persistence\\VinylStoreContext.cs",
+              "RelativeDocumentMoniker": "VinylStore.Api\\Persistence\\VinylStoreContext.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Api\\Persistence\\VinylStoreContext.cs",
+              "RelativeToolTip": "VinylStore.Api\\Persistence\\VinylStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:33:18.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "VinylStore.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\_Imports.razor",
+              "RelativeToolTip": "VinylStore.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T18:08:54.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAlbumPage.razor",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageStore\\AddAlbumPage.razor",
+              "RelativeDocumentMoniker": "VinylStore.Client\\Features\\ManageStore\\AddAlbumPage.razor",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Features\\ManageStore\\AddAlbumPage.razor",
+              "RelativeToolTip": "VinylStore.Client\\Features\\ManageStore\\AddAlbumPage.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T17:22:47.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlbumDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\Features\\ManageStore\\AlbumDto.cs",
+              "RelativeDocumentMoniker": "VinylStore.Shared\\Features\\ManageStore\\AlbumDto.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Shared\\Features\\ManageStore\\AlbumDto.cs",
+              "RelativeToolTip": "VinylStore.Shared\\Features\\ManageStore\\AlbumDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:16:30.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Program.cs",
+              "RelativeDocumentMoniker": "VinylStore.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\Program.cs",
+              "RelativeToolTip": "VinylStore.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:10:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VinylStore.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\VinylStore.Client.csproj",
+              "RelativeDocumentMoniker": "VinylStore.Client\\VinylStore.Client.csproj",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\VinylStore.Client\\VinylStore.Client\\VinylStore.Client.csproj",
+              "RelativeToolTip": "VinylStore.Client\\VinylStore.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T17:09:24.431Z",
+              "EditorCaption": ""
             }
           ]
         }

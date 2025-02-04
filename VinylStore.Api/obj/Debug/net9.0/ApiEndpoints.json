@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "VinylStore.Api.Features.ManageAlbums.AddAlbumEndpoints",
+    "Method": "HandleAsync",
+    "RelativePath": "api/albums",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VinylStore.Shared.Features.ManageStore.AddAlbumRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

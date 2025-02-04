@@ -10,14 +10,12 @@ builder.Services.AddDbContext<VinylStoreContext>(options =>
     options.UseSqlServer(connString));
 
 builder.Services.AddControllers().AddFluentValidation(fv => fv.RegisterValidatorsFromAssembly(Assembly.Load("VinylStore.Shared")));
-builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
     app.UseBlazorFrameworkFiles();
-    app.MapOpenApi();
 }
 
 app.UseHttpsRedirection();
@@ -25,7 +23,6 @@ app.UseHttpsRedirection();
 app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
 
-app.UseAuthorization();
 app.UseRouting();
 
 app.MapControllers();

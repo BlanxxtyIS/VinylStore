@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "VinylStore.Api/1.0.0": {
         "dependencies": {
+          "Ardalis.ApiEndpoints": "4.1.0",
           "FluentValidation.AspNetCore": "11.3.0",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "9.0.1",
           "Microsoft.AspNetCore.OpenApi": "9.0.0",
@@ -20,6 +21,18 @@
           "VinylStore.Api.dll": {}
         }
       },
+      "Ardalis.ApiEndpoints/4.1.0": {
+        "dependencies": {
+          "Ardalis.ApiEndpoints.CodeAnalyzers": "4.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Ardalis.ApiEndpoints.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      },
+      "Ardalis.ApiEndpoints.CodeAnalyzers/4.0.0": {},
       "Azure.Core/1.38.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "7.0.0",
@@ -104,6 +117,26 @@
           "lib/net6.0/Humanizer.dll": {
             "assemblyVersion": "2.14.0.0",
             "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "MediatR/12.4.1": {
+        "dependencies": {
+          "MediatR.Contracts": "2.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/MediatR.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.4.1.0"
+          }
+        }
+      },
+      "MediatR.Contracts/2.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
           }
         }
       },
@@ -702,6 +735,19 @@
           }
         }
       },
+      "Microsoft.Extensions.Diagnostics/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "9.0.0",
+          "Microsoft.Extensions.Diagnostics.Abstractions": "9.0.0",
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0"
+        }
+      },
+      "Microsoft.Extensions.Diagnostics.Abstractions/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.1",
+          "Microsoft.Extensions.Options": "9.0.1"
+        }
+      },
       "Microsoft.Extensions.FileProviders.Abstractions/9.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "9.0.1"
@@ -715,6 +761,16 @@
         }
       },
       "Microsoft.Extensions.FileSystemGlobbing/9.0.0": {},
+      "Microsoft.Extensions.Http/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.1",
+          "Microsoft.Extensions.Diagnostics": "9.0.0",
+          "Microsoft.Extensions.Logging": "9.0.1",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.1",
+          "Microsoft.Extensions.Options": "9.0.1"
+        }
+      },
       "Microsoft.Extensions.Logging/9.0.1": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "9.0.1",
@@ -749,6 +805,15 @@
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.124.61010"
           }
+        }
+      },
+      "Microsoft.Extensions.Options.ConfigurationExtensions/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.1",
+          "Microsoft.Extensions.Configuration.Binder": "9.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.1",
+          "Microsoft.Extensions.Options": "9.0.1",
+          "Microsoft.Extensions.Primitives": "9.0.1"
         }
       },
       "Microsoft.Extensions.Primitives/9.0.1": {
@@ -1183,7 +1248,9 @@
       "VinylStore.Client/1.0.0": {
         "dependencies": {
           "Blazored.FluentValidation": "2.2.0",
+          "MediatR": "12.4.1",
           "Microsoft.AspNetCore.Components.WebAssembly": "9.0.0",
+          "Microsoft.Extensions.Http": "9.0.0",
           "VinylStore.Shared": "1.0.0"
         },
         "runtime": {
@@ -1195,7 +1262,8 @@
       },
       "VinylStore.Shared/1.0.0": {
         "dependencies": {
-          "FluentValidation": "11.11.0"
+          "FluentValidation": "11.11.0",
+          "MediatR": "12.4.1"
         },
         "runtime": {
           "VinylStore.Shared.dll": {
@@ -1211,6 +1279,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Ardalis.ApiEndpoints/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5wlBlesmzAs4J0otguglfs8wuPDi49F8jqi6DOQcnP1G5KT+aejtaIRlcCcyi5vDu3tkw1fzoZ1WVcVKM0bEFA==",
+      "path": "ardalis.apiendpoints/4.1.0",
+      "hashPath": "ardalis.apiendpoints.4.1.0.nupkg.sha512"
+    },
+    "Ardalis.ApiEndpoints.CodeAnalyzers/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pt6OVZvjLNAZ9amACyQ5bYFqlTwK9AbShMS3nZtN+4zYkvCSwx/jE1elrY0eOFVT2ZqwtlRpFpIWEn6a9U9hIg==",
+      "path": "ardalis.apiendpoints.codeanalyzers/4.0.0",
+      "hashPath": "ardalis.apiendpoints.codeanalyzers.4.0.0.nupkg.sha512"
     },
     "Azure.Core/1.38.0": {
       "type": "package",
@@ -1260,6 +1342,20 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "MediatR/12.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0tLxCgEC5+r1OCuumR3sWyiVa+BMv3AgiU4+pz8xqTc+2q1WbUEXFOr7Orm96oZ9r9FsldgUtWvB2o7b9jDOaw==",
+      "path": "mediatr/12.4.1",
+      "hashPath": "mediatr.12.4.1.nupkg.sha512"
+    },
+    "MediatR.Contracts/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
+      "path": "mediatr.contracts/2.0.1",
+      "hashPath": "mediatr.contracts.2.0.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/9.0.0": {
       "type": "package",
@@ -1527,6 +1623,20 @@
       "path": "microsoft.extensions.dependencymodel/9.0.1",
       "hashPath": "microsoft.extensions.dependencymodel.9.0.1.nupkg.sha512"
     },
+    "Microsoft.Extensions.Diagnostics/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0CF9ZrNw5RAlRfbZuVIvzzhP8QeWqHiUmMBU/2H7Nmit8/vwP3/SbHeEctth7D4Gz2fBnEbokPc1NU8/j/1ZLw==",
+      "path": "microsoft.extensions.diagnostics/9.0.0",
+      "hashPath": "microsoft.extensions.diagnostics.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Diagnostics.Abstractions/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1K8P7XzuzX8W8pmXcZjcrqS6x5eSSdvhQohmcpgiQNY/HlDAlnrhR9dvlURfFz428A+RTCJpUyB+aKTA6AgVcQ==",
+      "path": "microsoft.extensions.diagnostics.abstractions/9.0.0",
+      "hashPath": "microsoft.extensions.diagnostics.abstractions.9.0.0.nupkg.sha512"
+    },
     "Microsoft.Extensions.FileProviders.Abstractions/9.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1548,6 +1658,13 @@
       "path": "microsoft.extensions.filesystemglobbing/9.0.0",
       "hashPath": "microsoft.extensions.filesystemglobbing.9.0.0.nupkg.sha512"
     },
+    "Microsoft.Extensions.Http/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DqI4q54U4hH7bIAq9M5a/hl5Odr/KBAoaZ0dcT4OgutD8dook34CbkvAfAIzkMVjYXiL+E5ul9etwwqiX4PHGw==",
+      "path": "microsoft.extensions.http/9.0.0",
+      "hashPath": "microsoft.extensions.http.9.0.0.nupkg.sha512"
+    },
     "Microsoft.Extensions.Logging/9.0.1": {
       "type": "package",
       "serviceable": true,
@@ -1568,6 +1685,13 @@
       "sha512": "sha512-nggoNKnWcsBIAaOWHA+53XZWrslC7aGeok+aR+epDPRy7HI7GwMnGZE8yEsL2Onw7kMOHVHwKcsDls1INkNUJQ==",
       "path": "microsoft.extensions.options/9.0.1",
       "hashPath": "microsoft.extensions.options.9.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options.ConfigurationExtensions/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ob3FXsXkcSMQmGZi7qP07EQ39kZpSBlTcAZLbJLdI4FIf0Jug8biv2HTavWmnTirchctPlq9bl/26CXtQRguzA==",
+      "path": "microsoft.extensions.options.configurationextensions/9.0.0",
+      "hashPath": "microsoft.extensions.options.configurationextensions.9.0.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Primitives/9.0.1": {
       "type": "package",
